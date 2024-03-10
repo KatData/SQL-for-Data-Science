@@ -25,7 +25,7 @@ In this module, you will be able to discuss subqueries, including their advantag
 - **Graded:** Module 3 Quiz
 - **Graded:** Module 3 Coding Assignment
 
-### Week 3: Modifying and Analyzing Data with SQL
+### Week 4: Modifying and Analyzing Data with SQL
 In this module, you will be able to discuss how to modify strings by concatenating, trimming, changing the case, and using the substring function. You will be able to discuss the date and time strings specifically. You will be able to use case statements and finish this module by discussing data governance and profiling. You will also be able to apply fundamental principles when using SQL for data science. You'll be able to use tips and tricks to apply SQL in a data science context.
 
 - 10 videos, 3 readings
