@@ -31,4 +31,3 @@ In this module, you will be able to discuss how to modify strings by concatenati
 - 10 videos, 3 readings
 - **Graded:** Module 4 Quiz
 - **Graded:** Module 4 Coding Questions
-- **Graded:** Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset
